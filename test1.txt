@@ -7,3 +7,5 @@ first commit
 We have pushed this file to remote
 
 we made changes to this file and yet to publish to remote
+
+published to remote
