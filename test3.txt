@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is B00F-8EA2
+
+ Directory of C:\Sreeram\Practice\GitPractice\Gitdemo
+
+14-03-2025  14:45    <DIR>          .
+14-03-2025  14:28    <DIR>          ..
+14-03-2025  14:28               169 test1.txt
+14-03-2025  14:28                22 test2.txt
+14-03-2025  14:45                 0 test3.txt
+               3 File(s)            191 bytes
+               2 Dir(s)  221,972,144,128 bytes free
